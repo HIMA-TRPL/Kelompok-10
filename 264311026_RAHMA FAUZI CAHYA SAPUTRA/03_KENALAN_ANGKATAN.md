@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### [01] [264311001] - [ADHINIA ALKURRATU AINNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001-ADHINIA_ALKURRATU_AINNI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001-ADHINIA_ALKURRATU_AINNI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADHINIA_ALKURRATU_AINNI]
 * **NIM:** [264311001]
 * **TTL:** [MADIUN11DESEMBER2007]
@@ -60,7 +60,7 @@
 * **Fun Fact:** [HIKING]
 
 ### [06] [264311006] -[AULIA FATMAWATI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006-AULIA_FATMAWATI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006-AULIA_FATMAWATI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AULIA_FATMAWATI]
 * **NIM:** [264311006]
 * **TTL:** [MADIUN_09NOVEMBER_2007]
@@ -170,7 +170,7 @@
 * **Fun Fact:** [gabisa_tidurklo_ganyetelmusik]
 
 ### [16] [264311016] -[FATIKHA ARTEMISIA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016-FATIKHA_ARTEMISIA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016-FATIKHA_ARTEMISIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [FATIKHA_ARTEMISIA]
 * **NIM:** [264311016]
 * **TTL:** [MAGETAN_16DESEMBER_2007]
@@ -181,7 +181,7 @@
 * **Fun Fact:** [CINTAKECAP]
 
 ### [17] [264311017] -[JELITA PALUPI KUSUMA WARDANI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017-JELITA_PALUPI_KUSUMA_WARDANI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017-JELITA_PALUPI_KUSUMA_WARDANI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [JELITA_PALUPI_KUSUMA_WARDANI]
 * **NIM:** [264311017]
 * **TTL:** [SIDOARJO_17MARET_2008]
@@ -236,7 +236,7 @@
 * **Fun Fact:** [dipanggilnengok]
 
 ### [22] [264311022] -[NAILA AZAHRA FITRI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022-NAILA_AZAHRA_FITRI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022-NAILA_AZAHRA_FITRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAILA_AZAHRA_FITRI]
 * **NIM:** [264311022]
 * **TTL:** [BOJONEGORO_10OKTOBER_2008]
@@ -258,7 +258,7 @@
 * **Fun Fact:** [lagi_rewatch_marvel💚]
 
 ### [24] [264311024] -[NGAZIMATUL KHUSNA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024-NGAZIMATUL_KHUSNA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024-NGAZIMATUL_KHUSNA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NGAZIMATUL_KHUSNA]
 * **NIM:** [264311024]
 * **TTL:** [NGAWI_12JULI_2007]
@@ -324,7 +324,7 @@
 * **Fun Fact:** [pengen_jago_vibecoding]
 
 ### [30] [264311030] -[ZAHRO CHOIRUN LATIFAH ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030-ZAHRO_CHOIRUN_LATIFAH.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030-ZAHRO_CHOIRUN_LATIFAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ZAHRO_CHOIRUN_LATIFAH]
 * **NIM:** [264311030]
 * **TTL:** [MADIUN_15MEI_2007]
@@ -405,7 +405,7 @@
 * **Fun Fact:** [drakor_addict]
 
 ### [07] [264311037] - [ANASTASYA SILVIA MONICA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037-ANASTASYA_SILVIA_MONICA.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037-ANASTASYA_SILVIA_MONICA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ANASTASYA_SILVIA_MONICA]
 * **NIM:** [264311037]
 * **TTL:** [KotaMagetan_5JUNI_2008]
@@ -427,7 +427,7 @@
 * **Fun Fact:** [GA_SUKANGOMONG_KASAR]
 
 ### [09] [264311039] - [DEWI WASILATUL KHOIRIYAH]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039-DEWI_WASILATUL_KHOIRIYAH.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039-DEWI_WASILATUL_KHOIRIYAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DEWI_WASILATUL_KHOIRIYAH]
 * **NIM:** [264311039]
 * **TTL:** [SIDOARJO_21NOVEMBER_2007]
@@ -493,7 +493,7 @@
 * **Fun Fact:** [LIKEE_KOPII_LIKEE_TIDUR_NGGA_LIKE_PANASS]
 
 ### [15] [264311045] - [KEYLILA EDENIA VINCA SUSANTO ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045-KEYLILA_EDENIA_VINCA_SUSANTO.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045-KEYLILA_EDENIA_VINCA_SUSANTO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [KEYLILA_EDENIA_VINCA_SUSANTO]
 * **NIM:** [264311045]
 * **TTL:** [KOTAMADIUN_18AGUSTUS_2007]
@@ -548,7 +548,7 @@
 * **Fun Fact:** [bisagambar&basket_berjam2klo_udahmasuk_flowstate]
 
 ### [20] [264311050] - [NADILA WULANSARI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050-NADILA_WULANSARI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050-NADILA_WULANSARI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NADILA_WULANSARI]
 * **NIM:** [264311050]
 * **TTL:** [NGAWI_23MEI_2007]
@@ -592,7 +592,7 @@
 * **Fun Fact:** [sukangopi]
 
 ### [24] [264311054] - [PANJI YUWONO WIJOYO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-PANJI_YUWONO_WIJOYO.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054-PANJI_YUWONO_WIJOYO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PANJI_YUWONO_WIJOYO]
 * **NIM:** [264311054]
 * **TTL:** [MADIUN_22FEBRUARI_2008]
@@ -603,7 +603,7 @@
 * **Fun Fact:** ["Hei!!Antek-Antek_Feodalis🫵!!!"]
 
 ### [25] [264311055] - [RAIZZAN ULAYYA TAQQI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055-Raizzan_Ulayya_Taqqi.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055-Raizzan_Ulayya_Taqqi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RAIZZAN_ULAYYA_TAQQI]
 * **NIM:** [264311055]
 * **TTL:** [NGAWI_01OKTOBER_2007]
@@ -674,7 +674,7 @@
 * **Fun Fact:** [Human_Male]
 
 ### [02] [264311061] - [AULIA KURNIAWATI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311061-AULIA_KURNIAWATI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311061-AULIA_KURNIAWATI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AULIA_KURNIAWATI]
 * **NIM:** [264311061]
 * **TTL:** [MADIUN_15DESEMBER_2007]
@@ -707,7 +707,7 @@
 * **Fun Fact:** [JAGO_NULIS_TANGAN_KIRI]
 
 ### [05] [264311064] - [CINDIKA ZAHIRA THITANIA PUTRI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311064-CINDIKA_ZAHIRA_THITANIA_PUTRI.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311064-CINDIKA_ZAHIRA_THITANIA_PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [CINDIKA_ZAHIRA_THITANIA_PUTRI]
 * **NIM:** [264311064]
 * **TTL:** [KOTAMADIUN_23FEBRUARI_2008]
@@ -718,7 +718,7 @@
 * **Fun Fact:** [Suka_wanginya_stela_jeruk]
 
 ### [06] [264311065] - [CORNELIA NASYWA PUJI AGUSTIN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311065-CORNELIA_NASYWA_PUJI_AGUSTIN.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311065-CORNELIA_NASYWA_PUJI_AGUSTIN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [CORNELIA_NASYWA_PUJI_AGUSTIN]
 * **NIM:** [264311065]
 * **TTL:** [MAGETAN_28APRIL_2007]
@@ -839,7 +839,7 @@
 * **Fun Fact:** [ASLINYA_RAMAH]
 
 ### [17] [264311076] - [MUHAMMAD ANDY DWI SUBANDI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311076-MUHAMMAD_ANDY_DWI_SUBANDI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311076-MUHAMMAD_ANDY_DWI_SUBANDI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ANDY_DWI_SUBANDI]
 * **NIM:** [264311076]
 * **TTL:** [PONOROGO_7MARET_2007]
@@ -850,7 +850,7 @@
 * **Fun Fact:** [SARAPAN_KOPI_IRENK]
 
 ### [18] [264311077] - [MUHAMMAD ZAKIY FUADIY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077-MUHAMMAD_ZAKIY_FUADIY.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077-MUHAMMAD_ZAKIY_FUADIY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ZAKIY_FUADIY]
 * **NIM:** [264311077]
 * **TTL:** [PACITAN_7MARET_2006]
@@ -861,7 +861,7 @@
 * **Fun Fact:** [Tidak_Pernah_Memiliki_Nama_Panggilan_Yang_Sama_DiSetiap_Jenjang_Sekolah]
 
 ### [19] [264311078] - [MUTYA YUWAN RAMADAHNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311078-MUTYA_YUWAN_RAMADAHNI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311078-MUTYA_YUWAN_RAMADAHNI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUTYA_YUWAN_RAMADAHNI]
 * **NIM:** [264311078]
 * **TTL:** [PONOROGO_6OKTOBER_2007]
@@ -894,7 +894,7 @@
 * **Fun Fact:** [SUKA_NYANYI_SAAT_MANDI]
 
 ### [22] [264311081] - [PUTRI NURHALIZA ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081-PUTRI_NURHALIZA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081-PUTRI_NURHALIZA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PUTRI_NURHALIZA]
 * **NIM:** [264311081]
 * **TTL:** [MADIUN_8JUNI_2007]
@@ -905,7 +905,7 @@
 * **Fun Fact:** [Pacarku_banyakkkkkkk]
 
 ### [23] [264311082] - [R. NABIL WIJAYA PRATAMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-R.NABIL_WIJAYA_PRATAMA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-R.NABIL_WIJAYA_PRATAMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [R.NABIL_WIJAYA_PRATAMA]
 * **NIM:** [264311082]
 * **TTL:** [MAGETAN_9AGUSTUS_2008]
@@ -916,7 +916,7 @@
 * **Fun Fact:** [SUKA_WHEN_YAH]
 
 ### [24] [264311083] - [SATRIA PANDU ADMAJA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA_PANDU_ADMAJA.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA_PANDU_ADMAJA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
 * **NIM:** [264311083]
 * **TTL:** [PONOROGO_20APRIL_2008]
@@ -960,7 +960,7 @@
 * **Fun Fact:** [suka_gambar]
 
 ### [28] [264311088] - [ZIDAN ZARAKHI RIDWAN HABIBI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088-ZIDAN_ZARAKHI_RIDWAN_HABIBI.JPEG" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088-ZIDAN_ZARAKHI_RIDWAN_HABIBI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
 * **NIM:** [264311088]
 * **TTL:** [MAGETAN_29APRIL_2008]
