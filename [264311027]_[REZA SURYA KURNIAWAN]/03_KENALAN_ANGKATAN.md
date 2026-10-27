@@ -16,7 +16,7 @@
 * **Fun Fact:** [BAIK]
 
 ### [01] [264311001]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001 - ADHINIA_ALKURRATU_AINNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/001 - ADHINIA_ALKURRATU_AINNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADHINIA_ALKURRATU_AINNI]
 * **NIM:** [264311001]
 * **TTL:** [MADIUN,_11_DESEMBER_2007]
