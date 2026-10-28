@@ -4,7 +4,7 @@
 
 ## 🏫 Kelas 1A
 
-### [01] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [01] [NIM] - [ADHINIA_ALKURRATU_AINI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
