@@ -470,17 +470,6 @@
 * **Asal Sekolah:** [SMAN_1_NGAWI]
 * **Fun Fact:** [jadi_Backburner]
 
-### [42] [264311042]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/042 B - GADING_FANDY_RAYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [GADING_FANDY_RAYA]
-* **NIM:** [264311042]
-* **TTL:** [MAGETAN,_04_JUNI_2007]
-* **Nomer Handphone:** [085894457828]
-* **Nama Kelompok:** [Tidak_tercantum_di_spreadsheet]
-* **Asal Daerah:** [MAGETAN]
-* **Asal Sekolah:** [Tidak_tercantum_di_spreadsheet]
-* **Fun Fact:** [Tidak_tercantum_di_spreadsheet]
-
 ### [43] [264311043]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/043 B - GLENDY_DEVANNO_ARDIANSYAH_PUTRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [GLENDY_DEVANNO_ARDIANSYAH_PUTRA]
