@@ -614,7 +614,7 @@
 * **Fun Fact:** gk suka makan pedes
 
 ### 56 264311056 - Restu Prayoga
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/restu.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/restu.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Restu Prayoga
 * **NIM:** 264311056
 * **TTL:** Ponorogo, 19 Januari 2008
@@ -926,7 +926,7 @@
 * **Fun Fact:** SUKA NGEGAME
 
 ### 84 264311085 - Syahga Reyhan Surya Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1/reyhan seiga.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/reyhan seiga.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Syahga Reyhan Surya Pratama
 * **NIM:** 264311085
 * **TTL:** Sidoarjo, 22 Januari 2007
