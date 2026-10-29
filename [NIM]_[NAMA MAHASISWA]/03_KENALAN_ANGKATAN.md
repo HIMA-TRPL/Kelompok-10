@@ -794,7 +794,7 @@
 * **Fun Fact:** SUKA MAIN FUTSAL, GAME
 
 ### 72 264311072 - Izzata Wihanangku
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/izatta.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Izzata Wihanangku
 * **NIM:** 264311072
 * **TTL:** Ponorogo, 06 Agustus 2007
@@ -805,7 +805,7 @@
 * **Fun Fact:** MALAS NGODING
 
 ### 73 264311073 - Jalalluddin Az-Zam Zami Ibnu Suta
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/zami.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Jalalluddin Az-Zam Zami Ibnu Suta
 * **NIM:** 264311073
 * **TTL:** Madiun, 21 Juli 2008
@@ -816,7 +816,7 @@
 * **Fun Fact:** Game garis keras
 
 ### 74 264311074 - Mar'atus Sofiana Azkiya
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/askia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mar'atus Sofiana Azkiya
 * **NIM:** 264311074
 * **TTL:** Ponorogo, 18 Januari 2008
@@ -838,7 +838,7 @@
 * **Fun Fact:** ASLINYA RAMAH
 
 ### 76 264311076 - Muhammad Andy Dwi Subandi
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/andi.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Andy Dwi Subandi
 * **NIM:** 264311076
 * **TTL:** Ponorogo, 7 Maret 2007
@@ -849,7 +849,7 @@
 * **Fun Fact:** SARAPAN KOPI IRENK
 
 ### 77 264311077 - Muhammad Zakiy Fuadiy
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/kiyah.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Zakiy Fuadiy
 * **NIM:** 264311077
 * **TTL:** Pacitan, 7 Maret 2006
@@ -860,7 +860,7 @@
 * **Fun Fact:** Tidak Pernah Memiliki Nama Panggilan Yang Sama Di Setiap Jenjang Sekolah
 
 ### 78 264311078 - Mutya Yuwan Ramadahni
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/mutia yuwan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mutya Yuwan Ramadahni
 * **NIM:** 264311078
 * **TTL:** Ponorogo, 6 Oktober 2007
@@ -871,7 +871,7 @@
 * **Fun Fact:** Suka warna hitam
 
 ### 79 264311079 - Neisya Grazia Aulia Firdianty
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/neisya.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Neisya Grazia Aulia Firdianty
 * **NIM:** 264311079
 * **TTL:** Madiun, 19 Juli 2007
@@ -882,7 +882,7 @@
 * **Fun Fact:** SUKA NA JAEMIN + CINTA ITS
 
 ### 80 264311080 - Nova
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/nova.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nova
 * **NIM:** 264311080
 * **TTL:** Bojonegoro, 3 November 2007
@@ -893,7 +893,7 @@
 * **Fun Fact:** SUKA NYANYI SAAT MANDI
 
 ### 81 264311081 - Putri Nurhaliza
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/putrii.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Putri Nurhaliza
 * **NIM:** 264311081
 * **TTL:** Madiun, 8 Juni 2007
@@ -904,7 +904,7 @@
 * **Fun Fact:** Pacarku banyakkkkkkk
 
 ### 82 264311082 - R. Nabil Wijaya Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/nabil.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** R. Nabil Wijaya Pratama
 * **NIM:** 264311082
 * **TTL:** Magetan, 9 Agustus 2008
@@ -915,7 +915,7 @@
 * **Fun Fact:** SUKA WHEN YAH
 
 ### 83 264311083 - Satria Pandu Admaja
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/satria.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Satria Pandu Admaja
 * **NIM:** 264311083
 * **TTL:** Ponorogo, 20 April 2008
@@ -926,7 +926,7 @@
 * **Fun Fact:** SUKA NGEGAME
 
 ### 84 264311085 - Syahga Reyhan Surya Pratama
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1/reyhan seiga.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Syahga Reyhan Surya Pratama
 * **NIM:** 264311085
 * **TTL:** Sidoarjo, 22 Januari 2007
@@ -937,7 +937,7 @@
 * **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
 ### 85 264311086 - Vicky Aditya Surya Samudra
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/vicky.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Vicky Aditya Surya Samudra
 * **NIM:** 264311086
 * **TTL:** Madiun, 1 Juli 2007
@@ -948,7 +948,7 @@
 * **Fun Fact:** Memelihara Kambing
 
 ### 86 264311087 - Yaya Winda Salma
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/yaya winda.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Yaya Winda Salma
 * **NIM:** 264311087
 * **TTL:** Magetan, 28 Desember 2007
@@ -959,7 +959,7 @@
 * **Fun Fact:** suka gambar
 
 ### 87 264311088 - Zidan Zarakhi Ridwan Habibi
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/zidan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
 * **NIM:** 264311088
 * **TTL:** Magetan, 29 April 2008
