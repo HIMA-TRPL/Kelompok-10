@@ -360,7 +360,7 @@
 ## 🏛️ Divisi HUMAS (Hubungan Mahasiswa)
 
 ### [34] HUMAS - [Adam Noverian]
-* <img src="assets/PANITIA/HUMAS/Humas - Adam Noverian.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Adam Noverian.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Adam_Noverian]
 * **Jabatan:** [Ketua_Humas]
 * **TTL:** [Surabaya,08_November_2005]
@@ -370,7 +370,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] HUMAS - [Muhammad Raufa Hafid W.]
-* <img src="assets/PANITIA/HUMAS/Humas - Muhammad Raufa Hafid W.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Muhammad Raufa Hafid W.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_W.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,26_September_2005]
@@ -380,7 +380,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] HUMAS - [Alvina Nur Laila Anggraini]
-* <img src="assets/PANITIA/HUMAS/Humas - Alvina Nur Laila Anggraini.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Alvina Nur Laila Anggraini.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvina_Laila_Anggraini]
 * **Jabatan:** [Anggota]
 * **TTL:** [Surabaya,31_Maret_2005]
@@ -390,7 +390,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] HUMAS - [Cristian Reynaldi]
-* <img src="assets/PANITIA/HUMAS/Humas - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
 * **Jabatan:** [Perlengkapan]
 * **TTL:** [Jakarta,18_Januari_2007]
@@ -400,7 +400,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] HUMAS - [Atha Aryasatya]
-* <img src="assets/PANITIA/HUMAS/Humas - Atha Aryasatya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - Atha Aryasatya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Atha_Aryasatya]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,22_Februari_2005]
