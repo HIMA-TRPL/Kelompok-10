@@ -614,7 +614,7 @@
 * **Fun Fact:** [gksuka_makanpedes]
 
 ### [26] [264311056] - [RESTU PRAYUGA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056-RESTU_PRAYUGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RESTU_PRAYUGA]
 * **NIM:** [264311056]
 * **TTL:** [PONOROGO_19JANUARI_2008]
@@ -663,7 +663,7 @@
 ## 🏫 Kelas 1C
 
 ### [01] [264311060] - [ADAM CHESTA ADITIO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060-ADAM_CHESTA_ADITIO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADAM_CHESTA_ADITIO]
 * **NIM:** [264311060]
 * **TTL:** [BLITAR_10SEPTEMBER_2007]
