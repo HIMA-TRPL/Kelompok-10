@@ -749,7 +749,7 @@
 * **Asal Sekolah:** SMKN 2 SURAKARTA
 * **Fun Fact:** I LIEK MUSIC AND FILM
 
-### 68 264311068 - evan baghaskar
+### 68 264311068 - evan baghaskara
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/evan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** evan baghaskara
 * **NIM:** 264311068
