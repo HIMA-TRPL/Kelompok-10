@@ -414,7 +414,7 @@
 ## 🏛️ VOLUNTEER
 
 ### [39] VOLUNTEER - [Septian Angga Saputra]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Septian Angga Saputra.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - Septian Angga Saputra.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Septian_Angga_Saputra]
 * **Jabatan:** [Volunteer]
 * **TTL:** [Ponorogo,12_September_2006]
@@ -424,7 +424,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] VOLUNTEER - [Indah Ayu Astuti]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Indah Ayu Astuti.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - Indah Ayu Astuti.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Indah_Ayu_Astuti]
 * **Jabatan:** [Volunteer]
 * **TTL:** [Ponorogo,27_Desember_2006]
@@ -434,7 +434,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] VOLUNTEER - [Kunni Sofa Rahmayani]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Kunni Sofa Rahmayani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - Kunni Sofa Rahmayani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Kunni_Sofa_Rahmayani]
 * **Jabatan:** [Volunteer]
 * **TTL:** [Madiun,04_Juli_2006]
@@ -444,7 +444,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] VOLUNTEER - [Aisyah Nur Fadillah]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Aisyah Nur Fadillah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - Aisyah Nur Fadillah.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Aisyah_Nur_Fadillah]
 * **Jabatan:** [Volunteer]
 * **TTL:** [Magetan,21_September_2006]
