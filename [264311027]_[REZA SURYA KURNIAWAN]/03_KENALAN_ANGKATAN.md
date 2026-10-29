@@ -4,17 +4,6 @@
 
 ## 🏫 Kelas 1A
 
-### [01] [264311001] - [ADHINIA_ALKURRATU_AINNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [ADHINIA_ALKURRATU_AINNI]
-* **NIM:** [264311001]
-* **TTL:** [MADIUN_11_DESEMBER_2007]
-* **Nomer Handphone:** [0895397031103]
-* **Nama Kelompok:** [EXPRESS]
-* **Asal Daerah:** [NGAWI]
-* **Asal Sekolah:** [SMAN_1_NGLAMES]
-* **Fun Fact:** [BAIK]
-
 ### [01] [264311001]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/001 - ADHINIA_ALKURRATU_AINNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADHINIA_ALKURRATU_AINNI]
