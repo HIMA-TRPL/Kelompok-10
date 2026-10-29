@@ -236,7 +236,7 @@
 * **Fun Fact:** dipanggil nengok
 
 ### 22 264311022 - Naila Azahra Fitri
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/naila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Naila Azahra Fitri
 * **NIM:** 264311022
 * **TTL:** Bojonegoro, 10 Oktober 2008
@@ -291,7 +291,7 @@
 * **Fun Fact:** PENDIEM YANG SERING GERAK
 
 ### 27 264311027 - Reza Surya Kurniawan
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/reza.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Reza Surya Kurniawan
 * **NIM:** 264311027
 * **TTL:** Magetan, 28 Maret 2007
