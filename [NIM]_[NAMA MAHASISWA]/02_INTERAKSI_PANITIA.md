@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqgi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - Dheandra Khairunnisa P.
-* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa P..png" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa P.png" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dheandra Khairunnisa P.
 * **Jabatan:** Sie Kesehatan
 * **TTL:** Madiun, 27 September 2005
