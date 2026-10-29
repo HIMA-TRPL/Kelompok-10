@@ -1,14 +1,14 @@
 # 📑 GIT-Ungu 2026: BUKU UNGU DIGITAL MPP HIMA-TRPL
 
 ## 👤 I. DATA DIRI MAHASISWA BARU
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** ELVAN SYAHPUTRA IDHAM
+* **NIM:** 264311014
+* **TTL:** KOTA MADIUN, 08 MARET 2008
+* **Nomer Handphone:** 085141031476
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** KAB MADIUN
+* **Asal Sekolah:** SMKN 1 MEJAYAN
+* **Fun Fact:** SUKA MELUKIS
 
 ---
 
