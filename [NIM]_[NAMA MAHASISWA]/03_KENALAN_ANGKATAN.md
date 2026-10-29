@@ -49,7 +49,7 @@
 * **Fun Fact:** MASA MUDA WAJIB HEALING
 
 ### 05 264311005 - Anis Ali Sohib
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - shohib.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/ shohib.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Anis Ali Sohib
 * **NIM:** 264311005
 * **TTL:** Magetan, 26 Maret 2008
