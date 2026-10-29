@@ -370,7 +370,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] HUMAS - [Muhammad Raufa Hafid W.]
-* <img src="assets/PANITIA/HUMAS/Humas - Muhammad Raufia Hafid W.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas - Muhammad Raufa Hafid W.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_W.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,26_September_2005]
