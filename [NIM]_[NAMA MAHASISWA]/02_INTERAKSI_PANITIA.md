@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - Nadia Tifara Sidiq
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..png" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S.png" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
 * **Jabatan:** Sie Acara
 * **TTL:** Madiun, 27 Desember 2005
