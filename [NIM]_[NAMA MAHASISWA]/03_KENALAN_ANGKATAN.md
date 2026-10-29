@@ -16,7 +16,7 @@
 * **Fun Fact:** BAIK
 
 ### 02 264311002 - Adly Nourus Zaman Assidiq
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/adly.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adly Nourus Zaman Assidiq
 * **NIM:** 264311002
 * **TTL:** Malaysia, 08 Januari 2008
@@ -27,7 +27,7 @@
 * **Fun Fact:** aku mau tidur
 
 ### 03 264311003 - Afan Dhani Prasetyo
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/afan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afan Dhani Prasetyo
 * **NIM:** 264311003
 * **TTL:** Magetan, 18 Febuari 2008
@@ -38,7 +38,7 @@
 * **Fun Fact:** Karina AESPA MBG (my bini gw)
 
 ### 04 264311004 - Afrin Rachmad Setio
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004-AFRIN_RACHMAD_SETIO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afrin Rachmad Setio
 * **NIM:** 264311004
 * **TTL:** Magetan, 30 Agustus 2008
