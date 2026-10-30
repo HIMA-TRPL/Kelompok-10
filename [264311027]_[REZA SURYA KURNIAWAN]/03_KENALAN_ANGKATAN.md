@@ -290,17 +290,6 @@
 * **Asal Sekolah:** [SMAN_1_KARANGJATI]
 * **Fun Fact:** [PENDIEM_YANG_SERING_GERAK]
 
-### [27] [264311027]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/027 - REZA_SURYA_KURNIAWAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [REZA_SURYA_KURNIAWAN]
-* **NIM:** [264311027]
-* **TTL:** [Magetan,_28_Maret_2007]
-* **Nomer Handphone:** [0895395151012]
-* **Nama Kelompok:** [SYMFONY]
-* **Asal Daerah:** [MAGETAN]
-* **Asal Sekolah:** [MAN_2_KOTA_MADIUN]
-* **Fun Fact:** [Suka_kopag]
-
 ### [28] [264311028]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/028 - RHAHMA_DWI_SEKARSARI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RHAHMA_DWI_SEKARSARI]
