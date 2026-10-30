@@ -305,7 +305,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [29] DKM - [Andrian Maulana]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM-Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [Koordinator]
 * **TTL:** [Ponorogo,19_September_2005]
