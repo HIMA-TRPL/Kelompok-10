@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assidiqgi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
@@ -399,7 +399,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] DKM - Silfina Nur Fadilah
-* <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.png" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Silina Nur Fadilah.png" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Silfina Nur Fadilah
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 02 Oktober 2006
@@ -482,14 +482,14 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - Galang
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
-* **Jabatan:** Volunteer Komdis
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+### [46] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER- Galang Surya Prasetyo.jpeg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+* *Nama Panitia:* Galang Surya Prasetyo
+* *Jabatan:* Volunteer Komdis
+* *TTL:* Tenggarong, 19 Februari 2007
+* *Nomer Handphone:* 081247074623
+* *Username GitHub:* PrassHere
+* *Asal Daerah:* Kalimantan Timur
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
