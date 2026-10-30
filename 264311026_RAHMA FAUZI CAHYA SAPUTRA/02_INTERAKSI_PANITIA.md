@@ -267,7 +267,7 @@
 * **TTL:** [Ngawi,24 September 2005]
 * **Nomer Handphone:** [ +62 895-4059-71849]
 * **Username GitHub:** @[hannnzu]
-* **Asal Daerah:** [  Ngawi]
+* **Asal Daerah:** [Ngawi]
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] PDD - [Achmad Alvin Al Falah]
@@ -395,8 +395,8 @@
 * **Jabatan:** [Perlengkapan]
 * **TTL:** [Jakarta,18_Januari_2007]
 * **Nomer Handphone:** [88296706472]
-* **Username GitHub:** @[gatau]
-* **Asal Daerah:** [asal]
+* **Username GitHub:** @[crysaldi]
+* **Asal Daerah:** [Jakarta]
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] HUMAS - [Atha Aryasatya]
@@ -483,14 +483,14 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - Galang
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
+### [46] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER- Galang Surya Prasetyo.jpeg" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer Komdis
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **TTL:** Tenggarong, 19 Februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** PrassHere
+* **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
