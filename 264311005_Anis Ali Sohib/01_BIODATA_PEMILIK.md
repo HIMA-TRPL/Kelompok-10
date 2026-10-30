@@ -1,0 +1,14 @@
+# 📑 GIT-Ungu 2026: BUKU UNGU DIGITAL MPP HIMA-TRPL
+
+## 👤 I. DATA DIRI MAHASISWA BARU
+* **Nama Lengkap:** ANIS ALI SOHIB
+* **NIM:** 264311005
+* **TTL:** MAGETAN, 26 MARET 2026
+* **Nomer Handphone:** 085759339335
+* **Nama Kelompok:** KELOMPOK 10 SYMFONY
+* **Asal Daerah:** KAB.MAGETAN
+* **Asal Sekolah:** SMK MA'ARIF DARUS SHOLIHIN
+* **Fun Fact:** SUKA ALAM, SUKA KEINDAHAN, DAN SUKA MAKAN
+
+---
+
