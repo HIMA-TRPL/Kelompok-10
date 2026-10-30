@@ -485,8 +485,8 @@
 ### [46] Volunteer - Galang Surya Prasetyo
 * <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.png" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
-* **Jabatan:** Volunteer
-* **TTL:** Tanggarong, 19 Februari
+* **Jabatan:** Volunteer 
+* **TTL:** Tanggarong, 19 Februari 2007
 * **Nomer Handphone:** 081247074623
 * **Username GitHub:** PrassHere
 * **Asal Daerah:** Kalimantan timur
