@@ -828,7 +828,7 @@
 * **Fun Fact:** [Suka_motoran_soresore]
 
 ### [16] [264311075] - [MUHAMMAD AHNAF GHIFARI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311075-MUHAMMAD_AHNAF_GHIFARI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311075-MUHAMMAD_AHNAF_GHIFARI.JPG" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_AHNAF_GHIFARI]
 * **NIM:** [264311075]
 * **TTL:** [KEDIRI_13APRIL_2008]
