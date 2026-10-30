@@ -108,11 +108,11 @@
 * **Asal Daerah:** [CARUBAN]
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
-### [11] Dagri - [NADIA_TIFARA_S]
-* <img src="assets/PANITIA/Dagri/DAGRI - NADIA_TIFARA_S.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NADIA_TIFARA_S]
+### [11] Dagri - [NADIA_TIFARA_SIDIQ]
+* <img src="assets/PANITIA/Dagri/DAGRI - NADIA_TIFARA_SIDIQ.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [NADIA_TIFARA_SIDIQ]
 * **Jabatan:** [STAFF]
-* **TTL:** [TTL]
+* **TTL:** [MADIUN_27_DESEMBER_2005]
 * **Nomer Handphone:** [081547416320]
 * **Username GitHub:** @[Nadia271205]
 * **Asal Daerah:** [MADIUN]
@@ -132,13 +132,13 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] PSDM - [AZZA_AULIYAUL_F]
-* <img src="assets/PANITIA/PSDM/PSDM - AZZA_AULIYAUL_F.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA_AULIYAUL_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F]
-* **Jabatan:** [STAFF]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [0]
-* **Username GitHub:** @[USERNAME_GITHUB_08]
-* **Asal Daerah:** [MAGETAN]
+* **Jabatan:** [ANGGOTA_PSDM]
+* **TTL:** [MADIUN_19_NOVEMBER_2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** @[azzaauliyaul]
+* **Asal Daerah:** [REJOSARI_SAWAHAN_MADIUN]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [MUHAMMAD_DANI_T]
@@ -151,14 +151,14 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
-### [15] PSDM - [RINDY_CANTIKA_AGUSTINA_P]
-* <img src="<assets/PANITIA/PSDM/PSDM - RINDY_CANTIKA_AGUSTINA_P.png>" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_P]
-* **Jabatan:** [PSDM]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [0]
-* **Username GitHub:** @[USERNAME_GITHUB_09]
-* **Asal Daerah:** [MAGETAN]
+### [15] PSDM - [RINDY_CANTIKA_AGUSTINA_PUTRI]
+* <img src="assets/PANITIA/PSDM/PSDM - RINDY_CANTIKA_AGUSTINA_PUTRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_PUTRI]
+* **Jabatan:** [ANGGOTA_PSDM]
+* **TTL:** [MADIUN_31_AGUSTUS_2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** @[111ndy]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] PSDM - [RIYAN_ZAKARIA_ZULKARNAIN]
@@ -259,9 +259,9 @@
 * **Asal Daerah:** [PONOROGO]
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
-### [25] PDD - [RAIHAN_FIRDAUS_ALFARITSI]
+### [25] PDD - [DAFFA_HAFIST_ATHA_KUNCORO]
 * <img src="assets/PANITIA/PDD/PDD - DAFFA_HAFIST_ATHA_KUNCORO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
+* **Nama Panitia:** [DAFFA_HAFIST_ATHA_KUNCORO]
 * **Jabatan:** [STAFF_MUDA]
 * **TTL:** [SURABAYA_16_JANUARI_2007]
 * **Nomer Handphone:** [081329827262]
@@ -290,13 +290,13 @@
 <!-- Line Comment TTD Panitia 27 wajib ditargetkan pada baris komentar ini -->
 
 ### [28] PDD - [RAIHAN_FIRDAUS_ALFARITSI]
-* <img src="<assets/PANITIA/PDD/PDD - RAIHAN_FIRDAUS_ALFARITSI.png>" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - RAIHAN_FIRDAUS_ALFARITSI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
-* **Jabatan:** [STAFF]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [0]
-* **Username GitHub:** @[USERNAME_GITHUB_15]
-* **Asal Daerah:** [MAGETAN]
+* **Jabatan:** [ANGGOTA]
+* **TTL:** [24_SEPTEMBER_2005]
+* **Nomer Handphone:** [0895405971849]
+* **Username GitHub:** @[hannnzu]
+* **Asal Daerah:** [NGAWI]
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -304,13 +304,13 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [29] DKM - [ANDRIAN_MAULANA]
-* <img src="assets/PANITIA/DKM/DKM - ANDRIAN_MAULANA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - ANDRIAN_MAULANA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN_MAULANA]
-* **Jabatan:** [KOORDINATOR]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [0]
-* **Username GitHub:** @[USERNAME_GITHUB_16]
-* **Asal Daerah:** [MADIUN]
+* **Jabatan:** [KOORDINATOR_DKM]
+* **TTL:** [PONOROGO_19_SEPTEMBER_2005]
+* **Nomer Handphone:** [089524151260]
+* **Username GitHub:** @[driannminaa]
+* **Asal Daerah:** [PONOROGO]
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] DKM - [DHEANDRA_KHAIRUNNISA_P]
@@ -426,19 +426,19 @@
 * **Nama Panitia:** [ERVINDY_ANJUNI_NURMASARI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN_21_JUNI_2006]
-* **Nomer Handphone:** [0]
+* **Nomer Handphone:** [085733213487]
 * **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
-### [41] VOLUNTEER - [GALANG]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [GALANG]
+### [41] VOLUNTEER - [GALANG_SURYA_PRASETYO]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG_SURYA_PRASETYO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
 * **Jabatan:** [VOLUNTEER]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [0]
-* **Username GitHub:** @[USERNAME_GITHUB_16]
-* **Asal Daerah:** [MADIUN]
+* **TTL:** [TENGGARONG_19_FEBRUARI_2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [KALIMANTAN_TIMUR]
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] VOLUNTEER - [INDAH_AYU_ASTUTI]
