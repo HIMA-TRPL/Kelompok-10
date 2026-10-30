@@ -49,9 +49,9 @@
 * **Nama Panitia:** [Alivia_Rizka-Wardani]
 * **Jabatan:** [Bendahara_1]
 * **TTL:** [Ngawi,12_September_2007]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[8819699823]
-* **Asal Daerah:** [aliviarizz]
+* **Nomer Handphone:** [8819699823]
+* **Username GitHub:** @[aliviarizz]
+* **Asal Daerah:** [Ngawi]
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [Dhea Novika]
@@ -112,7 +112,7 @@
 * <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Nadia_Tifara_S.]
 * **Jabatan:** [Staff]
-* **TTL:** [TTL]
+* **TTL:** [Madiun,25 Desember 2005]
 * **Nomer Handphone:** [81547416320]
 * **Username GitHub:** @[Nadia271205]
 * **Asal Daerah:** [Madiun]
@@ -264,10 +264,10 @@
 * * <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raihan_Firdaus_Alfaritsi]
 * **Jabatan:** [Staff]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_15]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [Ngawi,24 September 2005]
+* **Nomer Handphone:** [ +62 895-4059-71849]
+* **Username GitHub:** @[hannnzu]
+* **Asal Daerah:** [  Ngawi]
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] PDD - [Achmad Alvin Al Falah]
@@ -472,6 +472,28 @@
 * **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+### [45] Volunteer - Nadya Nur Kamila
+* <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamila.png" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Nadya Nur Kamila
+* **Jabatan:** Volunteer
+* **TTL:** Madiun, 1 September 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - Galang
+* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang
+* **Jabatan:** Volunteer Komdis
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Username GitHub:** -
+* **Asal Daerah:** -
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
+---
+
 
 ---
 
