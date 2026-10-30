@@ -482,14 +482,14 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - Galang
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Galang
-* **Jabatan:** Volunteer Komdis
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+### [46] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.png" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer
+* **TTL:** Tanggarong, 19 Februari
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** PrassHere
+* **Asal Daerah:** Kalimantan timur
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
