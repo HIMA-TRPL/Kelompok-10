@@ -279,17 +279,6 @@
 * **Asal Sekolah:** [SMAN_1_MAOSPATI]
 * **Fun Fact:** [SELALU_JADI_SECONDCHOICE]
 
-### [26] [264311026] -[RAHMA FAUZI CAHYA SAPUTRA ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026-RAHMA_FAUZI_CAHYA_SAPUTRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [RAHMA_FAUZI_CAHYA_SAPUTRA]
-* **NIM:** [264311026]
-* **TTL:** [NGAWI_20JULI_2008]
-* **Nomer Handphone:** [085748652781]
-* **Nama Kelompok:** [SYMFONY]
-* **Asal Daerah:** [NGAWI]
-* **Asal Sekolah:** [SMAN_1_KARANGJATI]
-* **Fun Fact:** [PENDIEM_YANGSERING_GERAK]
-
 ### [27] [264311027] -[REZA SURYA KURNIAWAN]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027-REZA_SURYA_KURNIAWAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [REZA_SURYA_KURNIAWAN]
