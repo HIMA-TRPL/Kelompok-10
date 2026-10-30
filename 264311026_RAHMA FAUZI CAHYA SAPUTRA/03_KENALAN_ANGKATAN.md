@@ -280,7 +280,7 @@
 * **Fun Fact:** [SELALU_JADI_SECONDCHOICE]
 
 ### [26] [264311026] -[RAHMA FAUZI CAHYA SAPUTRA ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026-RAHMA_FAUZI_CAHYA_SAPUTRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RAHMA_FAUZI_CAHYA_SAPUTRA]
 * **NIM:** [264311026]
 * **TTL:** [NGAWI_20JULI_2008]
