@@ -268,16 +268,6 @@
 * **Asal Sekolah:** MAS AL-ISLAM JORESAN PONOROGO
 * **Fun Fact:** bisa tidur berdiri
 
-### 25 264311025 - Rafiq Imam Zaini
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Rafiq Imam Zaini
-* **NIM:** 264311025
-* **TTL:** Balikpapan, 21 Desember 2005
-* **Nomer Handphone:** 089616630873
-* **Nama Kelompok:** Symfony
-* **Asal Daerah:** Magetan
-* **Asal Sekolah:** SMAN 1 MAOSPATI
-* **Fun Fact:** suka pecut ai
 
 ### 26 264311026 - Rahma Fauzi Cahya Saputra
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/fauzi.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
