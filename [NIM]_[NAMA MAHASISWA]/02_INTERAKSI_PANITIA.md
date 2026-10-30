@@ -143,8 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM- Rindy Cantika Agustina Putri.jpg
-" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina Putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,31_Agustus_2006]
@@ -475,7 +474,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Galang Surya Prasetyo
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER-Galang Surya Prasetyo.jpeg" alt=" Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTER- Galang Surya Prasetyo.png" alt=" Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:**[Galang Surya Prasetyo]
 * **Jabatan:**[Volunteer]
 * **TTL:** [tenggarong, 19 februari 2007]
