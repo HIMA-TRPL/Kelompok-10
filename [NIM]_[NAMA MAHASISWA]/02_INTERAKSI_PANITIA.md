@@ -472,6 +472,17 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
+
+### [45] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - " alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer 
+* **TTL:** tenggarong, 19 februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** PrassHere
+* **Asal Daerah:** kalimantan timur
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
 ---
 
 ---
