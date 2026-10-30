@@ -142,9 +142,9 @@
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
-### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina Putri.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
+### [14] PSDM - [Rindy Cantika Agustina Putri]
+* <img src="assets/PANITIA/PSDM/PSDM- Rindy Cantika Agustina Putri.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Rindy_Cantika_Agustina_Putri]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,31_Agustus_2006]
 * **Nomer Handphone:** [081553111275]
@@ -484,7 +484,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - Nadya Nur Kamila
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - Nadya Nur Kamila.png" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Nadya Nur Kamila.png" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* Nadya Nur Kamila
 * *Jabatan:* Volunteer
 * *TTL:* Madiun, 1 September 2006
