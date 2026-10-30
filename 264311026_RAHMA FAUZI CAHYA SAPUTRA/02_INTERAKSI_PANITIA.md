@@ -173,7 +173,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [17] PSDM - [Azza Auliyaul F.]
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza_Auliyaul_F.]
 * **Jabatan:** [Staff]
 * **TTL:** [Madiun,19_November_2005]
