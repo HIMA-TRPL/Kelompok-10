@@ -8,7 +8,7 @@
 * **Nama Kelompok:** SYMFONY
 * **Asal Daerah:** MAGETAN
 * **Asal Sekolah:** SMAN 1 MAOSPATI
-* **Fun Fact:** HOBI LARI,SUKA BERMAIN GAME,SERING DISAKITIN
+* **Fun Fact:** suka pecut ai
 
 ---
 
