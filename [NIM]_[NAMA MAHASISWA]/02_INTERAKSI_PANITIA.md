@@ -143,7 +143,8 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM- Rindy Cantika Agustina Putri.jpeg
+" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,31_Agustus_2006]
