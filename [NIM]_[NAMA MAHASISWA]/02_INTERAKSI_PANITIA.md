@@ -27,7 +27,7 @@
 ### [03] BPH - [Fathur Roshin Haddinanta]
 * <img src="assets/PANITIA/BPH/BPH - Fathur Roshin Haddinanata.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Fathur_Roshin_Haddinanta]
-* **Jabatan:** [Sekre_1]
+* **Jabatan:** [Sekertaris_1]
 * **TTL:** [Tulungagung,21_September_2005]
 * **Nomer Handphone:** [85732860583]
 * **Username GitHub:** @[fathursn21]
@@ -362,7 +362,7 @@
 ### [34] HUMAS - [Adam Noverian]
 * <img src="assets/PANITIA/HUMAS/Humas - Adam Noverian.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Adam_Noverian]
-* **Jabatan:** [Ketua_Humas]
+* **Jabatan:** [Koordinator]
 * **TTL:** [Surabaya,08_November_2005]
 * **Nomer Handphone:** [85113168995]
 * **Username GitHub:** @[Swipezz]
