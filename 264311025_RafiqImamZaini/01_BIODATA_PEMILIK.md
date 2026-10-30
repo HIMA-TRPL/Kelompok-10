@@ -1,0 +1,14 @@
+# 📑 GIT-Ungu 2026: BUKU UNGU DIGITAL MPP HIMA-TRPL
+
+## 👤 I. DATA DIRI MAHASISWA BARU
+* **Nama Lengkap:** RAFIQ IMAM ZAINI
+* **NIM:** 264311025
+* **TTL:** BALIKPAPAN,21 DESEMBER 2005
+* **Nomer Handphone:** 0896166308673
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 MAOSPATI
+* **Fun Fact:** suka pecut ai
+
+---
+
