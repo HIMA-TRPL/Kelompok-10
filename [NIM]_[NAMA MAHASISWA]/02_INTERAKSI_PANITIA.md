@@ -142,14 +142,14 @@
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
-### [14] PSDM - [Rindy Cantika Agustina Putri]
-* <img src="assets/PANITIA/PSDM/PSDM- Rindy Cantika Agustina Putri.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Rindy_Cantika_Agustina_Putri]
-* **Jabatan:** [Anggota]
-* **TTL:** [Madiun,31_Agustus_2006]
-* **Nomer Handphone:** [081553111275]
-* **Username GitHub:** @[111ndy]
-* **Asal Daerah:** [Madiun]
+### [14] PSDM - Rindy Cantika Agustina P.
+* <img src="assets/PANITIA/PSDM/rindy.jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Rindy Cantika Agustina P.
+* **Jabatan:** Anggota PSDM
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] PSDM - [Abdul Aziz Mushthofa]
