@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [Dhea Novika]
-* iku<img src="assets/PANITIA/BPH/BPH - Dhea Novika.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* iku<img src="assets/PANITIA/BPH/BPH - Dheqa Novika.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Dhea_Novika]
 * **Jabatan:** [Bendahara_2]
 * **TTL:** [Madiun,13_November_2006]
