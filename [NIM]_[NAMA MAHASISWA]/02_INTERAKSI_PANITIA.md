@@ -306,7 +306,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [29] DKM - [Andrian Maulana]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM-Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Andrian_Maulana]
 * **Jabatan:** [Koordinator]
 * **TTL:** [Ponorogo,19_September_2005]
@@ -472,6 +472,16 @@
 * **Nomer Handphone:** [-]
 * **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [Madiun]
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+### [45] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER-Galang Surya Prasetyo.jpeg" alt=" Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:**[Galang Surya Prasetyo]
+* **Jabatan:**[Volunteer]
+* **TTL:** [tenggarong, 19 februari 2007]
+* **Nomer Handphone:** [ 081247074623]
+* **Username GitHub:** @[ PrassHere]
+* **Asal Daerah:** [Kalimantan Timur]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ---
