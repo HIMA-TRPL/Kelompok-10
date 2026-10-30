@@ -48,17 +48,6 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** MASA MUDA WAJIB HEALING
 
-### 05. 264311005 - ANIS ALI SOHIB
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - ANIS ALI SOHIB.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** ANIS ALI SOHIB
-* **NIM:** 264311005
-* **TTL:** MAGETAN, 26 MARET 2008
-* **Nomer Handphone:** 085759339335
-* **Nama Kelompok:** SYMFONY
-* **Asal Daerah:** MAGETAB
-* **Asal Sekolah:** SMK MA'ARIF DS
-* **Fun Fact:** HIKING
-
 ### 06. 264311006 - AULIA FATMAWATI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006 - AULIA FATMAWATI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AULIA FATMAWATI
