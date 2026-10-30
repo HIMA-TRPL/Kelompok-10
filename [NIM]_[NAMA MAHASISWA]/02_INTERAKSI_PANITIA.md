@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina Putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina Putri.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy_Cantika_Agustina_P.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,31_Agustus_2006]
@@ -370,7 +370,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] HUMAS - [Muhammad Raufa Hafid W.]
-* <img src="assets/PANITIA/HUMAS/Humas - Muhammad Raufa Hafid W.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas - Muhammad Raufia Hafid W.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad_Raufa_Hafid_W.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,26_September_2005]
@@ -390,7 +390,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] HUMAS - [Cristian Reynaldi]
-* <img src="assets/PANITIA/HUMAS/Humas - Cristian Reynaldi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/Humas - Cristian Reynaldy.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Cristian_Reynaldi]
 * **Jabatan:** [Perlengkapan]
 * **TTL:** [Jakarta,18_Januari_2007]
@@ -482,6 +482,16 @@
 * **Username GitHub:** @[ PrassHere]
 * **Asal Daerah:** [Kalimantan Timur]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - Nadya Nur Kamila
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - Nadya Nur Kamila.png" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* *Nama Panitia:* Nadya Nur Kamila
+* *Jabatan:* Volunteer
+* *TTL:* Madiun, 1 September 2006
+* *Nomer Handphone:* 085731873063
+* *Username GitHub:* @nanayaaa
+* *Asal Daerah:* Madiun
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
