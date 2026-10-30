@@ -111,7 +111,7 @@
 ### [11] Dagri - Nadia Tifara Sidiq
 * <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S.png" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
-* **Jabatan:** Sie Acara
+* **Jabatan:** Anggota
 * **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
