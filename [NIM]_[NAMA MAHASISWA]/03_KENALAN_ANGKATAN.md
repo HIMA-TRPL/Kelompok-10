@@ -147,17 +147,6 @@
 * **Asal Sekolah:** [SMKN_1_GEGER]
 * **Fun Fact:** [aku_mah_pemulaa]
 
-### [14] [264311014] -[ELVAN SYAHPUTRA IDHAM ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014-ELVAN_SYAHPUTRA_IDHAM.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [ELVAN_SYAHPUTRA_IDHAM]
-* **NIM:** [264311014]
-* **TTL:** [MADIUN_08MARET_2008]
-* **Nomer Handphone:** [085141031476]
-* **Nama Kelompok:** [SYMFONY]
-* **Asal Daerah:** [MADIUN]
-* **Asal Sekolah:** [SMKN_1_MEJAYAN]
-* **Fun Fact:** [suka_melukis]
-
 ### [15] [264311015] -[FAKHRIYATUL MUZAKKINA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015-FAKHRIYATUL_MUZAKKINA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [FAKHRIYATUL_MUZAKKINA]
