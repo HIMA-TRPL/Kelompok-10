@@ -181,7 +181,7 @@
 * **Fun Fact:** [CINTAKECAP]
 
 ### [17] [264311017] -[JELITA PALUPI KUSUMA WARDANI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017-JELITA_PALUPI_KUSUMA_WARDANI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017-JELITA_PALUPI_KUSUMA_WARDANI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [JELITA_PALUPI_KUSUMA_WARDANI]
 * **NIM:** [264311017]
 * **TTL:** [SIDOARJO_17MARET_2008]
