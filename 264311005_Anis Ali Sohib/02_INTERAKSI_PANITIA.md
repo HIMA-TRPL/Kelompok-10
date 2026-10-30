@@ -345,7 +345,7 @@
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
 
 ### [33] PDD - Dinda Rahmawati
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.png" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawatini.png" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
 * **Jabatan:** Staff Muda
 * **TTL:** Madiun, 09 September 2006
