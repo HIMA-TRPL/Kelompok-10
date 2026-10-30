@@ -110,7 +110,7 @@
 ### [11] Dagri - [NADIA_TIFARA_S]
 * <img src="assets/PANITIA/Dagri/Dagri - NADIA_TIFARA_S.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADIA_TIFARA_S]
-* **Jabatan:** [SIE_ACARA]
+* **Jabatan:** [STAFF]
 * **TTL:** [MADIUN_27_DESEMBER_2005]
 * **Nomer Handphone:** [081547416320]
 * **Username GitHub:** @[Nadia271205]
@@ -186,13 +186,13 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - [AZZA_AULIYAUL_F]
-* <img src="assets/PANITIA/PSDM/PSDM - AZZA_AULIYAUL_F.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA_AULIYAUL_F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F.]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_08]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** [ANGGOTA_PSDM]
+* **TTL:** [MADIUN_11_NOVEMBER_2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** @[azzaauliyaul]
+* **Asal Daerah:** [REJOSARI_SAWAHAN_MADIUN]
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - [MUHAMMAD_DANI_T]
@@ -216,13 +216,13 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - [RINDY_CANTIKA_AGUSTINA_P]
-* <img src="assets/PANITIA/PSDM/PSDM - RINDY_CANTIKA_AGUSTINA_P.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - RINDY_CANTIKA_AGUSTINA_P.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_P]
-* **Jabatan:** [KOORDINATOR_PSDM]
-* **TTL:** [PONOROGO,_07_SEPTEMBER_2005]
-* **Nomer Handphone:** [085172421215]
-* **Username GitHub:** @[Riyanzakaria]
-* **Asal Daerah:** [PONOROGO]
+* **Jabatan:** [ANGGOTA]
+* **TTL:** [MADIUN_31_AGUSTUS_2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** @[111ndy]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - [TIARA_MAYA_LESTARI]
@@ -311,9 +311,9 @@
 * **Asal Daerah:** [PONOROGO]
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
-### [30] PDD - [RAIHAN_FIRDAUS_ALFARITSI]
-* <img src="assets/PANITIA/PDD/PDD - RAIHAN_FIRDAUS_ALFARITSI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
+### [30] PDD - [DAFFA_HAFIST_ATHA_KUNCORO]
+* <img src="assets/PANITIA/PDD/PDD - DAFFA_HAFIST_ATHA_KUNCORO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [DAFFA_HAFIST_ATHA_KUNCORO]
 * **Jabatan:** [STAFF_MUDA]
 * **TTL:** [SURABAYA_16_JANUARI_2007]
 * **Nomer Handphone:** [081329827262]
@@ -331,14 +331,14 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
-### [32] PDD - [RADITYA_ALFAREEZA_PURNAMA]
-* <img src="assets/PANITIA/PDD/PDD - RADITYA_ALFAREEZA_PURNAMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [RADITYA_ALFAREEZA_PURNAMA]
-* **Jabatan:** [STAFF]
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** [MAGETAN]
+### [32] PDD - [RADITYA_ALFAREZA_PURNAMA]
+* <img src="assets/PANITIA/PDD/PDD - RADITYA_ALFAREZA_PURNAMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [RADITYA_ALFAREZA_PURNAMA]
+* **Jabatan:** [ANGGOTA_PDD]
+* **TTL:** [MADIUN_4_MARET_2006]
+* **Nomer Handphone:** [085784030358]
+* **Username GitHub:** @[radityaalfareza]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
 
 ### [33] PDD - [RAIHAN_FIRDAUS_ALFARITSI]
@@ -355,13 +355,13 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - [ANDRIAN_MAULANA]
-* <img src="assets/PANITIA/DKM/DKM - ANDRIAN_MAULANA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_16]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_16]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* <img src="assets/PANITIA/DKM/DKM - ANDRIAN_MAULANA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [ANDRIAN_MAULANA]
+* **Jabatan:** [KOORDINATOR]
+* **TTL:** [PONOROGO_SEPTEMBER_2005]
+* **Nomer Handphone:** [089524151260]
+* **Username GitHub:** @[driannmina]
+* **Asal Daerah:** [PONOROGO]
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - [DHEANDRA_KHAIRUNNISA_P]
@@ -423,18 +423,19 @@
 * **Nama Panitia:** [ERVINDY_ANJUNI_NURMASARI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN_21_JUNI_2006]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nomer Handphone:** [085733213487]
 * **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
-### [41] VOLUNTEER - [GALANG]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [GALANG]
-* **TTL:** [MADIUN_21_JUNI_2006]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[erov1n]
-* **Asal Daerah:** [MADIUN]
+### [41] VOLUNTEER - [GALANG_SURYA_PRASETYO]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG_SURYA_PRASETYO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [TENGGARONG_19_FEBRUARI_2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [KALIMANTAN_TIMUR]
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] VOLUNTEER - [INDAH_AYU_ASTUTII]
